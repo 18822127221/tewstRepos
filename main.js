@@ -12,6 +12,7 @@ THING.Utils.dynamicLoad(['/static/ScenePreview/chart/PreviewChartControl.js'], f
         },
         complete: function () {
             console.log('11111111111')
+            console.log("2222222222222")
         }
     });
 })
