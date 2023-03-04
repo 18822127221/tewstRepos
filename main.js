@@ -11,7 +11,7 @@ THING.Utils.dynamicLoad(['/static/ScenePreview/chart/PreviewChartControl.js'], f
             orgin: 'center center'  // 自适应的基准点，第一个参数取值为:left、center、right，第二个参数取值为:top、center、bottom，默认值为“center center”
         },
         complete: function () {
-            console.log('1111vvvvvvv')
+            console.log('1vvvv')
             console.log("2222222222222")
         }
     });
